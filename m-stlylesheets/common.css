@@ -315,7 +315,7 @@ body {
 }
 
 @media (min-width: 1200px) {
-  .header {
+  .index_body .header, .header {
     padding: 0;
   }
 }
